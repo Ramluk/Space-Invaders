@@ -1,0 +1,7 @@
+Figure out how to use pygame.mixer module to add sound
+
+add bullets for aliens to shoot down
+
+add shields for ship
+
+add slow and speedup mechanics
